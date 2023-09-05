@@ -1,5 +1,16 @@
 <h1><a href = "https://leetcode.com/problems/build-array-from-permutation/">Permutation Array Transformation</a></h1>
 
+<h2>Video Solution:</h2>
+<a href="https://youtu.be/EEFmSuXaAoY">https://youtu.be/EEFmSuXaAoY</a>
+
+- Don't forget to give the star to the Repository
+
+- Remember, your support means the world to me. If you find this tutorial valuable, consider supporting my work on : 
+   - [Buy Me a Coffee] https://www.buymeacoffee.com/pushpakraut 
+   - [GitHub sponsor] https://github.com/sponsors/PushpakRaut.
+<hr />
+
+<h4>Question</h4>
 <p>Given a zero-based permutation <code>nums</code> (0-indexed), this algorithm builds an array <code>ans</code> of the same length where <code>ans[i] = nums[nums[i]]</code> for each <code>0 <= i < nums.length</code> and returns it.</p>
 
 <p>A zero-based permutation <code>nums</code> is an array of distinct integers from 0 to <code>nums.length - 1</code> (inclusive).</p>
