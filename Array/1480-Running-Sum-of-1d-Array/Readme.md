@@ -1,5 +1,17 @@
 <h1><a href = "https://leetcode.com/problems/running-sum-of-1d-array/description/">Running Sum of 1d Array</a></h1>
 
+<h2>Video Solution:</h2>
+<a href="https://youtu.be/mccFn_3ZYso">https://youtu.be/mccFn_3ZYso</a>
+
+- Don't forget to give the star to the Repository
+
+- Remember, your support means the world to me. If you find this tutorial valuable, consider supporting my work on : 
+   - [Buy Me a Coffee] https://www.buymeacoffee.com/pushpakraut 
+   - [GitHub sponsor] https://github.com/sponsors/PushpakRaut.
+<hr />
+
+<h4>Question</h4>
+
 <p>Given an array <code>nums</code>, the running sum of the array is defined as <code>runningSum[i] = sum(nums[0]…nums[i])</code>. This algorithm returns the running sum of <code>nums</code>.</p>
 
 <h2>Examples</h2>
