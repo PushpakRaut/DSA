@@ -1,5 +1,17 @@
 <h1><a href = "https://leetcode.com/problems/richest-customer-wealth">1672 Richest Customer Wealth</a></h1>
 
+<h2>Video Solution:</h2>
+<a href="https://youtu.be/KM3cElEBhf8">https://youtu.be/KM3cElEBhf8</a>
+
+- Don't forget to give the star to the Repository
+
+- Remember, your support means the world to me. If you find this tutorial valuable, consider supporting my work on : 
+   - [Buy Me a Coffee] https://www.buymeacoffee.com/pushpakraut 
+   - [GitHub sponsor] https://github.com/sponsors/PushpakRaut.
+<hr />
+
+<h4>Question</h4>
+
 <p>You are given an <code>m x n</code> integer grid <code>accounts</code> where <code>accounts[i][j]</code> is the amount of money the <code>i</code>​​​​​​​​​​​th​​​​ customer has in the <code>j</code>​​​​​​​​​​​th​​​​ bank. This algorithm returns the wealth that the richest customer has.</p>
 
 <p>A customer's wealth is the amount of money they have in all their bank accounts. The richest customer is the customer that has the maximum wealth.</p>
