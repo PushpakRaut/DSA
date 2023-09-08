@@ -1,5 +1,17 @@
 <h1><a href = "https://leetcode.com/problems/shuffle-the-array">1470 Shuffle the Array</a></h1>
 
+<h2>Video Solution:</h2>
+<a href="https://youtu.be/j7CYDjr3IJk">https://youtu.be/j7CYDjr3IJk</a>
+
+- Don't forget to give the star to the Repository
+
+- Remember, your support means the world to me. If you find this tutorial valuable, consider supporting my work on : 
+   - [Buy Me a Coffee] https://www.buymeacoffee.com/pushpakraut 
+   - [GitHub sponsor] https://github.com/sponsors/PushpakRaut.
+<hr />
+
+<h4>Question</h4>
+
 <p>Given the array <code>nums</code> consisting of <code>2n</code> elements in the form <code>[x1, x2, ..., xn, y1, y2, ..., yn]</code>, this algorithm returns the array in the form <code>[x1, y1, x2, y2, ..., xn, yn]</code>.</p>
 
 <h2>Examples</h2>
