@@ -1,6 +1,17 @@
 
 <body>
     <h2><a href="https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number">1365-How-Many-Numbers-Are-Smaller-Than-the-Current-Number</a></h2>
+    <h2>Video Solution:</h2>
+<a href="https://youtu.be/Y7qSsQAGiss">https://youtu.be/Y7qSsQAGiss</a>
+
+- Don't forget to give the star to the Repository
+
+- Remember, your support means the world to me. If you find this tutorial valuable, consider supporting my work on : 
+   - [Buy Me a Coffee] https://www.buymeacoffee.com/pushpakraut 
+   - [GitHub sponsor] https://github.com/sponsors/PushpakRaut.
+<hr />
+
+<h4>Question</h4>
     <p>Given the array <code>nums</code>, for each <code>nums[i]</code> find out how many numbers in the array are smaller than it. That is, for each <code>nums[i]</code> you have to count the number of valid <code>j</code>'s such that <code>j != i</code> and <code>nums[j] &lt; nums[i]</code>.</p>
     <p>Return the answer in an array.</p>
     <h3>Example 1</h3>
