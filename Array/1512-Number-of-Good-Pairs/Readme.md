@@ -1,4 +1,15 @@
 <h2><a href = "https://leetcode.com/problems/number-of-good-pairs">1512-Number-of-Good-Pairs</a></h2>
+<h2>Video Solution:</h2>
+<a href="https://youtu.be/YlMv7Oz_bQI">https://youtu.be/YlMv7Oz_bQI</a>
+
+- Don't forget to give the star to the Repository
+
+- Remember, your support means the world to me. If you find this tutorial valuable, consider supporting my work on : 
+   - [Buy Me a Coffee] https://www.buymeacoffee.com/pushpakraut 
+   - [GitHub sponsor] https://github.com/sponsors/PushpakRaut.
+<hr />
+
+<h4>Question</h4>
     <p>Given an array of integers <code>nums</code>, return the number of good pairs.</p>
     <p>A pair (<em>i, j</em>) is called good if <code>nums[i] == nums[j]</code> and <em>i</em> &lt; <em>j</em>.</p> 
     <h3>Example 1:</h3>
