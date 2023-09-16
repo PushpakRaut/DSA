@@ -1,7 +1,7 @@
 <h1><a href = "https://leetcode.com/problems/find-the-highest-altitude">1732. Find the Highest Altitude</a></h1>
 
 <h2>Video Solution:</h2>
-<a href="">https://youtu.be/KM3cElEBhf8</a>
+<a href="https://youtu.be/-lw8F3Zzhuo">https://youtu.be/-lw8F3Zzhuo</a>
 
 - Don't forget to give the star to the Repository
 
