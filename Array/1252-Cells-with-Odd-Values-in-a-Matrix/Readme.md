@@ -1,6 +1,6 @@
 <h2><a href="https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/description/">1252. Cells with Odd Values in a Matrix</a></h2>
 <h2>Video Solution:</h2>
-<a href="https://youtu.be/Y7qSsQAGiss">https://youtu.be/Y7qSsQAGiss</a>
+<a href="https://youtu.be/FLfASaN7CBQ">https://youtu.be/FLfASaN7CBQ</a>
 
 - Don't forget to give the star to the Repository
 
