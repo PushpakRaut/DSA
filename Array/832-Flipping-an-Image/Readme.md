@@ -1,7 +1,7 @@
 <h1><a href = "https://leetcode.com/problems/flipping-an-image/description/">832. Flipping an Image</a></h1>
 
 <h2>Video Solution:</h2>
-<a href="https://youtu.be/LX4Md0BCNPA">https://youtu.be/LX4Md0BCNPA</a>
+<a href="https://youtu.be/4tw1eD6fDuY">https://youtu.be/4tw1eD6fDuY</a>
 
 - Don't forget to give the star to the Repository
 
