@@ -1,6 +1,6 @@
 <h2><a href = "https://leetcode.com/problems/matrix-diagonal-sum/description/">1572. Matrix Diagonal Sum</a></h2>
 <h2>Video Solution:</h2>
-<a href="">https://youtu.be/YlMv7Oz_bQI</a>
+<a href="https://youtu.be/QnFpmiH3mqw">https://youtu.be/QnFpmiH3mqw</a>
 
 - Don't forget to give the star to the Repository
 
